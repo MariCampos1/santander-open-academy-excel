@@ -1,4 +1,4 @@
-# Capacitação em Excel Intermediário — Santander Open Academy
+# Capacitação em Excel — Santander Open Academy
 
 Este repositório foi criado para consolidar, documentar e expor todos os projetos práticos, desafios e aplicações desenvolvidas ao longo dos módulos de **Excel** da formação promovida pela Santander Open Academy.
 
